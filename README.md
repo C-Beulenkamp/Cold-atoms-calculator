@@ -7,10 +7,10 @@ Written from about 2022 to 2024, while I was working on the KCs experiment in In
 
 The scattering data tab can load files containing scattering length a or inelastic scattering coefficient k2 versus magnetic field B. It reads files which start with the isotope: e.g. '39K_*.txt'. These files should have a structure as follows:
 
-Pinpointing Feshbach resonances and testing Efimov universalities in 39 K, PRR5, 013174&linear
-B (G)&a (a0)
-1.000100000000000017e-01 -4.554707963893424250e+01
-1.100099999999999967e-01 -4.555665393661984552e+01
+Pinpointing Feshbach resonances and testing Efimov universalities in 39 K, PRR5, 013174&linear \
+B (G)&a (a0) \
+1.000100000000000017e-01 -4.554707963893424250e+01 \
+1.100099999999999967e-01 -4.555665393661984552e+01 \
 .....
 
 The first line should contain the source for the data or Feshbach resonance parameters used to produce the data, followed by the specification of the y-scale. Use 'linear' for scattering lengths and 'log' for inelastic collision coefficients.
