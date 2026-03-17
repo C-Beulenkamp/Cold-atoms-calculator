@@ -3,7 +3,7 @@ A calculator for use in a cold atom experiment. Can compute: Zeeman+hyperfine st
 
 Written from about 2022 to 2024, while I was working on the KCs experiment in Innsbruck. It has been a long time since I checked all the calculations, so there may be some bugs or incorrect outputs. I'd recommend checking outputs with your own calculations before relying on it too much. 
 
-Some pictures for reference:
+Some pictures for reference (note that only some alkalis are implemented at the moment, the buttons for alkaline-earth and lanthenides don't do anything):
 <img width="1192" height="902" alt="Hyperfine" src="https://github.com/user-attachments/assets/9acda5eb-43a8-491c-a43e-1328cd10c1c6" />
 <img width="1192" height="902" alt="potentials" src="https://github.com/user-attachments/assets/420c0d66-0cee-4fb4-96ca-677664aa1d57" />
 <img width="1192" height="902" alt="lattices" src="https://github.com/user-attachments/assets/e5041678-6fee-4a9f-bfd9-5407d1253d39" />
