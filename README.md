@@ -1,9 +1,13 @@
 # Cold-atoms-calculator
 A calculator for use in a cold atom experiment. Can compute: Zeeman+hyperfine structure, AC polarizability, magnetic and optical traps, optical lattices, elastic and inelastic collision rates in a trapped gas, and more.
 
-
 Written from about 2022 to 2024, while I was working on the KCs experiment in Innsbruck. It has been a long time since I checked all the calculations, so there may be some bugs or incorrect outputs. I'd recommend checking outputs with your own calculations before relying on it too much. 
 
+Some pictures for reference:
+<img width="1192" height="902" alt="Hyperfine" src="https://github.com/user-attachments/assets/9acda5eb-43a8-491c-a43e-1328cd10c1c6" />
+<img width="1192" height="902" alt="potentials" src="https://github.com/user-attachments/assets/420c0d66-0cee-4fb4-96ca-677664aa1d57" />
+<img width="1192" height="902" alt="lattices" src="https://github.com/user-attachments/assets/e5041678-6fee-4a9f-bfd9-5407d1253d39" />
+<img width="1192" height="902" alt="coldclouds" src="https://github.com/user-attachments/assets/97fae61e-c7e3-42bc-b200-3a7cde0e83b7" />
 
 
 
